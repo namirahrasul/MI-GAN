@@ -11,9 +11,9 @@ __pycache__/
 .vscode/
 
 # Extensions
-.pt
+#.pt
 
 # Data
 data
 log/
-models/
+#models/
